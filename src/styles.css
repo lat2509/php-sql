@@ -1,0 +1,178 @@
+.center {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+
+.card-registration {
+    background-color: rgb(1, 1, 1, 0.2) !important;
+    color: aliceblue !important;
+    margin-top: 0rem !important;
+}
+
+.text-body {
+    color: rgb(69, 151, 223) !important;
+}
+
+.topic {
+    padding: 5%;
+}
+
+.h1 {
+    text-align: center;
+    color: #124076;
+}
+
+.error {
+    color: red;
+}
+
+.title {
+    font-size: large !important;
+    font-weight: 600 !important;
+}
+
+.dropdown-menu {
+    width: 200px;
+    background-color: #CDE8E5;
+}
+
+.item-center {
+    margin-left: 30%;
+}
+
+.main {
+    background-color: rgb(0, 0, 0, 0)
+}
+
+.navbar {
+    background-color: #77B0AA;
+    color: #fff;
+    font-size: large !important;
+    font-weight: bold !important;
+    border-radius: 0.5rem;
+
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold !important;
+}
+
+.navbar-brand:hover {
+    color: #2d1c89;
+}
+
+.navbar-nav {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+.nav-item {
+    padding: 0 15px;
+
+    /* Khoảng cách giữa các mục menu */
+}
+
+.nav-link {
+    color: #fff;
+
+    /* Màu chữ cho các mục menu */
+}
+
+.nav-link:hover {
+    color: #D24545;
+}
+
+.container {
+    margin-top: 20px;
+
+}
+
+.col-4 {
+    margin-top: 20px;
+    border-radius: 0.25rem;
+    color: white;
+    opacity: 0.85;
+
+}
+
+.col-4:hover {
+    opacity: 1;
+
+}
+
+/* Lựa chọn con của .col-4 */
+
+
+
+.btn-success {
+    background-color: #0D9276;
+    color: #fff;
+}
+
+.btn-danger {
+    background-color: #ce4646;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #4b92df;
+
+}
+
+.body {
+    background-image: url("https://i.imgur.com/ExiWlK8.jpeg");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.table {
+    background-color: rgb(1, 1, 1, 0.2) !important;
+    color: aliceblue !important;
+    margin-top: 0rem !important;
+    background-color: transparent !important;
+}
+
+.table-transparent {
+    .table-transparent {
+        background-color: rgba(255, 255, 255, 0.5);
+        /* Chỉnh độ trong suốt ở đây, giá trị 0.5 là một ví dụ */
+    }
+
+}
+
+.table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.th {
+    padding: 5px;
+    text-align: left;
+}
+
+.td {
+    padding: 5px;
+}
+
+.titlepage {
+    /* text-align: center; */
+    color: white;
+}
+
+.profile-info {
+    color: white;
+    align-items: center;
+
+}
+
